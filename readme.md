@@ -4,21 +4,21 @@ In this project, you will create a backend of a blog application, utilizing Mode
 
 # Technologies:
 
-* Node
-* Express
-* Dotenv
+| x | * Node
+| x | * Express
+| x | * Dotenv
 
 # Stories
 
 ## Create your project
 
-Utilize `npm init -y` to create your project.
+| x | Utilize `npm init -y` to create your project.
 
-Install your `express`, `nodemon`, and `dotenv` dependencies.
+| x | Install your `express`, `nodemon`, and `dotenv` dependencies.
 
-Create your `app.js` file which will contain your entry points. I already created a `.gitignore` for your convenience and filled it with node modules and your environment variable.
+| x | Create your `app.js` file which will contain your entry points. I already created a `.gitignore` for  your convenience and filled it with node modules and your environment variable.
 
-Create an `api` folder which will hold `blog.json` file. The file should contain the following data schematic:
+| x | Create an `api` folder which will hold `blog.json` file. The file should contain the following data schematic:
 
 ```json
 [
@@ -30,7 +30,7 @@ Create an `api` folder which will hold `blog.json` file. The file should contain
     }
 ]
 ```
-Create a `controllers` folder which will store your `routes.js` file. This is where you will create all of your endpoints to handle full CRUD functionality.
+| x | Create a `controllers` folder which will store your `routes.js` file. This is where you will create all of your endpoints to handle full CRUD functionality.
 
 ## System Design
 
