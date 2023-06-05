@@ -2,7 +2,31 @@
     {
         "post_id": 1,
         "title": "First Blog Post",
-        "author": "Paul Niemczyk",
+        "author": "Paul",
+        "body": "These student devs keep getting younger and smarter"
+    },
+    {
+        "post_id": 2,
+        "title": "First Blog Post",
+        "author": "Haseeb",
+        "body": "These student Uprights keep getting younger and smarter"
+    },
+    {
+        "post_id": 3,
+        "title": "Second Blog Post",
+        "author": "Eric",
+        "body": "These student devs keep getting younger and smarter"
+    },
+    {
+        "post_id": 4,
+        "title": "Second Blog Post",
+        "author": "Eric",
+        "body": "These student devs keep getting younger and smarter"
+    },
+    {
+        "post_id": 5,
+        "title": "Second Blog Post",
+        "author": "Eric",
         "body": "These student devs keep getting younger and smarter"
     }
 ]
