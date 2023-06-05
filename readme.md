@@ -4,21 +4,21 @@ In this project, you will create a backend of a blog application, utilizing Mode
 
 # Technologies:
 
-* Node
-* Express
-* Dotenv
+| x | * Node
+| x | * Express
+| x | * Dotenv
 
 # Stories
 
 ## Create your project
 
-Utilize `npm init -y` to create your project.
+| x | Utilize `npm init -y` to create your project.
 
-Install your `express`, `nodemon`, and `dotenv` dependencies.
+| x | Install your `express`, `nodemon`, and `dotenv` dependencies.
 
-Create your `app.js` file which will contain your entry points. I already created a `.gitignore` for your convenience and filled it with node modules and your environment variable.
+| x | Create your `app.js` file which will contain your entry points. I already created a `.gitignore` for  your convenience and filled it with node modules and your environment variable.
 
-Create an `api` folder which will hold `blog.json` file. The file should contain the following data schematic:
+| x | Create an `api` folder which will hold `blog.json` file. The file should contain the following data schematic:
 
 ```json
 [
@@ -30,17 +30,17 @@ Create an `api` folder which will hold `blog.json` file. The file should contain
     }
 ]
 ```
-Create a `controllers` folder which will store your `routes.js` file. This is where you will create all of your endpoints to handle full CRUD functionality.
+| x | Create a `controllers` folder which will store your `routes.js` file. This is where you will create all of your endpoints to handle full CRUD functionality.  
 
 ## System Design
 
 You should have the following routes:
-
-- [ ] Endpoint that will display all comments from the database. In lieu of database, we use our `blog.json` file.
-- [ ] Endpoint that will display one comment from the database selected by its `post_id`
-- [ ] Endpoint that will allow us to create a new entry which will be appended to the `.json` file's outermost array.
-- [ ] Endpoint that will allow us to update an existing entry once a match has been found. The search should be done via a query parameter, whereas update information should be enclosed within the body.
-- [ ] Endpoint that will allow us to delete an entry from our `.json` file. This should be done thru the utilization of the parameter.
+ 
+- [ x ] Endpoint that will display all comments from the database. In lieu of database, we use our `blog.json` file.
+- [ x ] Endpoint that will display one comment from the database selected by its `post_id`
+- [ x ] Endpoint that will allow us to create a new entry which will be appended to the `.json` file's outermost array.
+- [ x ] Endpoint that will allow us to update an existing entry once a match has been found. The search should be done via a query parameter, whereas update information should be enclosed within the body.
+- [ x ] Endpoint that will allow us to delete an entry from our `.json` file. This should be done thru the utilization of the parameter.
 
 ## Logic
 

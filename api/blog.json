@@ -1,0 +1,32 @@
+[
+    {
+        "post_id": 1,
+        "title": "First Blog Post",
+        "author": "Paul",
+        "body": "These student devs keep getting younger and smarter"
+    },
+    {
+        "post_id": 2,
+        "title": "Fiftth Blog Post",
+        "author": "John",
+        "body": "These student devs keep getting younger and smarter!"
+    },
+    {
+        "post_id": 3,
+        "title": "Third Blog Post",
+        "author": "Eric",
+        "body": "These student devs keep getting younger and smarter"
+    },
+    {
+        "post_id": 4,
+        "title": "Fourth Blog Post",
+        "author": "John",
+        "body": "These student devs keep getting younger and smarter!"
+    },
+    {
+        "post_id": 5,
+        "title": "Fiftth Blog Post",
+        "author": "John",
+        "body": "These student devs keep getting younger and smarter!"
+    }
+]
